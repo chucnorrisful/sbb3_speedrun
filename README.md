@@ -1,6 +1,6 @@
 # Super Battle Brothers 3 Speedrun Categorys & Rules
 
-[SBB](https://painder.itch.io/super-bottle-brothers-3)
+[Super Battle Brothers 3](https://painder.itch.io/super-bottle-brothers-3)
 
 # Current Records
 
