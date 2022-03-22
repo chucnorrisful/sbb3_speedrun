@@ -1,6 +1,6 @@
 # Super Battle Brothers 3 Speedrun Categorys & Rules
 
-[https://painder.itch.io/super-bottle-brothers-3](SBB)
+[SBB](https://painder.itch.io/super-bottle-brothers-3)
 
 # Current Records
 
@@ -40,6 +40,6 @@ Time stops on killing last enemy alive (if bottles already collected)
 or collecting the last bottle (if all enemys already dead).
 
 ## LiveSplit Splits and Layout provided in the files
-- download [https://livesplit.org/downloads/](LiveSplit)
+- download [LiveSplit](https://livesplit.org/downloads/)
 - open Layout and Splits for your category
 - recommended: use Q/E to time/reset your runs, enable global hotkeys.
