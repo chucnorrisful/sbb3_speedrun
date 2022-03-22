@@ -18,18 +18,19 @@
 |   		|   				|   	|
 |   		|   				|   	|
 
+# Categorys & Rules
 
-# General Rules:
+## General Rules:
 - Run starts on first player movement/shooting input (not on scene loading)
 - No macro/clicking scripts etc.
 - Attempts have to be captured on video (and uploaded on YT, unlisted is ok) to count.
 
-# Any%
+## Any%
 ![Finish](won.png)
 Stand on the highest Platform in the startmenu, where "hi, you won" is written in the background.
 Time stops on touching this highest platform from above.
 
-# 100%
+## 100%
 Do everything there is to do in the game, in order:
 - win the game (same as any%)
 - open the settings and click the mute button
@@ -38,7 +39,7 @@ Do everything there is to do in the game, in order:
 Time stops on killing last enemy alive (if bottles already collected) 
 or collecting the last bottle (if all enemys already dead).
 
-# LiveSplit Splits and Layout provided in the files
+## LiveSplit Splits and Layout provided in the files
 - download [https://livesplit.org/downloads/](LiveSplit)
 - open Layout and Splits for your category
 - recommended: use Q/E to time/reset your runs, enable global hotkeys.
