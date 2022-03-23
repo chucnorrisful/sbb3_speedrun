@@ -18,7 +18,7 @@
 |Time		|Runner				|Date			|Video										|
 |---		|---				|---			|---										|
 |0:59.250   |buart    			|23.03.22 19:46	|[video](https://youtu.be/duuottw9ijw)		|
-|4:04.443  	|baseline-time   	|23.03.22 00:45	|											|
+|		  	|				   	|				|											|
 |   		|   				|				|   										|
 |   		|   				|				|   										|
 
