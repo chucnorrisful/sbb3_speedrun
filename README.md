@@ -5,19 +5,22 @@
 # Current Records
 
 ## Any%
-|Time		|Runner				|Date	|Video										|
-|---		|---				|---	|---										|
+|Time		|Runner				|Date			|Video										|
+|---		|---				|---			|---										|
+|7.420    	|buart   			|23.03.22 20:25	|[video](https://youtu.be/BLI1fd_L_-g)   	|
 |16.550  	|chucnorrisful   	|23.03.22 00:45	|[video](https://youtu.be/N-tfTwCERSk)		|
-|23.714  	|baseline-time   	|		|		|
-|   		|   				|		|		|
-|   		|   				|		|	   	|
+|		 	|				   	|				|											|
+|   		|   				|				|											|
+|   		|   				|				|	   										|
+
 
 ## 100%
-|Time		|Runner				|Video	|
-|---		|---				|---	|
-|4:04.443  	|baseline-time   	|		|
-|   		|   				|   	|
-|   		|   				|   	|
+|Time		|Runner				|Date			|Video										|
+|---		|---				|---			|---										|
+|0:59.250   |buart    			|23.03.22 19:46	|[video](https://youtu.be/duuottw9ijw)		|
+|4:04.443  	|baseline-time   	|23.03.22 00:45	|											|
+|   		|   				|				|   										|
+|   		|   				|				|   										|
 
 # Categorys & Rules
 
