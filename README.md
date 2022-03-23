@@ -5,12 +5,12 @@
 # Current Records
 
 ## Any%
-|Time		|Runner				|Video										|
-|---		|---				|---										|
-|16.550  	|chucnorrisful   	|[video](https://youtu.be/N-tfTwCERSk)		|
-|23.714  	|baseline-time   	|		|
-|   		|   				|   	|
-|   		|   				|   	|
+|Time		|Runner				|Date	|Video										|
+|---		|---				|---	|---										|
+|16.550  	|chucnorrisful   	|23.03.22 00:45	|[video](https://youtu.be/N-tfTwCERSk)		|
+|23.714  	|baseline-time   	|		|		|
+|   		|   				|		|		|
+|   		|   				|		|	   	|
 
 ## 100%
 |Time		|Runner				|Video	|
