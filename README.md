@@ -5,8 +5,9 @@
 # Current Records
 
 ## Any%
-|Time		|Runner				|Video	|
-|---		|---				|---	|
+|Time		|Runner				|Video										|
+|---		|---				|---										|
+|16.550  	|chucnorrisful   	|[video](https://youtu.be/N-tfTwCERSk)		|
 |23.714  	|baseline-time   	|		|
 |   		|   				|   	|
 |   		|   				|   	|
