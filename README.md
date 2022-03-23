@@ -7,6 +7,7 @@
 ## Any%
 |Time		|Runner				|Video										|
 |---		|---				|---										|
+|7.420    |buart   |[video](https://www.youtube.com/watch?v=BLI1fd_L_-g)   |
 |16.550  	|chucnorrisful   	|[video](https://youtu.be/N-tfTwCERSk)		|
 |23.714  	|baseline-time   	|		|
 |   		|   				|   	|
@@ -15,6 +16,7 @@
 ## 100%
 |Time		|Runner				|Video	|
 |---		|---				|---	|
+|0:59.250   |buart    |[video](https://www.youtube.com/watch?v=duuottw9ijw)
 |4:04.443  	|baseline-time   	|		|
 |   		|   				|   	|
 |   		|   				|   	|
