@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>3833</X>
-  <Y>573</Y>
+  <X>2717</X>
+  <Y>107</Y>
   <VerticalWidth>465</VerticalWidth>
   <VerticalHeight>375</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
@@ -160,21 +160,18 @@
       <Settings />
     </Component>
     <Component>
-      <Path>LiveSplit.WorldRecord.dll</Path>
+      <Path>LiveSplit.SumOfBest.dll</Path>
       <Settings>
-        <Version>1.6</Version>
+        <Version>1.4</Version>
         <TextColor>FFFFFFFF</TextColor>
         <OverrideTextColor>False</OverrideTextColor>
         <TimeColor>FFFFFFFF</TimeColor>
         <OverrideTimeColor>False</OverrideTimeColor>
+        <Accuracy>Seconds</Accuracy>
         <BackgroundColor>00FFFFFF</BackgroundColor>
         <BackgroundColor2>00FFFFFF</BackgroundColor2>
         <BackgroundGradient>Plain</BackgroundGradient>
         <Display2Rows>False</Display2Rows>
-        <CenteredText>True</CenteredText>
-        <FilterRegion>False</FilterRegion>
-        <FilterPlatform>False</FilterPlatform>
-        <FilterVariables>False</FilterVariables>
       </Settings>
     </Component>
   </Components>
